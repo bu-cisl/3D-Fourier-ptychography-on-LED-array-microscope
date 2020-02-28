@@ -4,8 +4,8 @@ MATLAB implementation of 3D-Fourier-ptychography-on-LED-array-microscope
 
 ### Getting Started
 
-This code is based on the paper "High throughput intensity diffraction tomography with a computational microscope" PDF. It implements closed-form inversion based on Tikhonov regularization to recover 3D phase and absorption from 2D intensity measurements.
+This code is based on the paper "3D intensity and phase imaging from light field measurements in an LED array microscope" PDF. 
 
 ### Running the code
 
-MATLAB is required to run this code Run IDT_example.m
+MATLAB is required to run this code Run MultiSlice_SuperRes.m
