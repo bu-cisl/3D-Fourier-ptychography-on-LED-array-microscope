@@ -24,6 +24,7 @@ MATLAB is required to run this code. Run MultiSlice_SuperRes.m
 Dataset contains images captured from sequential LED illumination up to 0.41 NA, using a 4x objective (0.1 NA). In our paper, we achieved resolution corresponding to the sum of the two NAs~0.5. Our 3D FPM algorithms is based on multislice model that accounts for multiple scattering effects from 3D model. It combines 3D light field refocusing with FPM to achieve super resolution in both lateral (x,y) and axial (z) dimensions across a large field of view.
 
 Dataset1: Two stacked resolution targets separated by ~100um
+
 Dataset 2: Spiral Algea
 
 ### Result 
